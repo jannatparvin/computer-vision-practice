@@ -6,5 +6,3 @@ Small computer vision projects I built while learning OpenCV and Python.
 
 ## Leaf vein edge detection
 Canny edge detection on a leaf photo, comparing three thresholds.
-
-![Leaf edge detection results](docs/canny_edge_result.png)
